@@ -1,5 +1,5 @@
 # Uncloak 
-This repository is an accumulation of knowledge, notes, rust experiments, and a general understanding of cryptography as guided by [Thor Kamphefner](https://github.com/thor314) and other contributors of [uncloak](https://uncloak.org/README)!
+This repository is an accumulation of knowledge, notes, experiments, Rust and a general understanding of cryptography as guided by [Thor Kamphefner](https://github.com/thor314) and other contributors of [uncloak](https://uncloak.org/README)!
 
 
 ## sources
